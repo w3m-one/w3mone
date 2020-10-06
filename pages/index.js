@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Securing web3 one network at a time...
+          Securing web3 networks.
         </p>
 
         <div className={styles.grid}>
